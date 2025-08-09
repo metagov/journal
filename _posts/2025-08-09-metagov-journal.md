@@ -38,7 +38,8 @@ To reproduce this institution, i.e. to found a new Metagov Journal:
 5. find a fiscal sponsor or create a nonprofit legal entity
 
 # Data
-<!--Where to find active data related to the institution.-->
+<!--Where to find data that allows researchers to analyze and study the institution.-->
+Data about Metagov is updated at [https://metagov.org] and in JSON format on [GitHub](https://raw.githubusercontent.com/metagov/entity/refs/heads/main/entity.json).
 
 # Acknowledgements
 <!--In addition to typical acknowledgements, please also declare your relationship to the institution.-->
