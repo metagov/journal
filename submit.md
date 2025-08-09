@@ -1,5 +1,5 @@
 ---
-title: Submit to Metagov
+title: Submit
 description: How to submit to the Metagov Journal
 layout: page
 ---
