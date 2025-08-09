@@ -1,5 +1,4 @@
 ---
-title: Metagov Journal
 layout: home
 description: The Metagov Journal is a peer-reviewed journal that publishes living institutions.
 ---
