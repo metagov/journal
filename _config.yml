@@ -1,4 +1,3 @@
-markdown: kramdown
 theme: minima
 title: Metagov Journal
 description: A journal for institutional experiments
@@ -11,13 +10,11 @@ plugins:
 # Theme-specific settings
 
 minima:
-  # Set to `true` to show excerpts on the homepage.
 header_pages:
   - about.md
   - submit.md
 
-show_excerpts: true
-
-google_analytics: 
+# Set to `true` to show excerpts on the homepage.
+show_excerpts: false
 
 # see https://github.com/jekyll/minima/blob/master/_config.yml for examples
