@@ -1,5 +1,7 @@
 ---
 layout: post
+title: The Metagov Journal
+date: 2025-08-09
 ---
 
 # Abstract
