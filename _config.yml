@@ -1,10 +1,7 @@
 markdown: kramdown
 theme: minima
 title: Metagov Journal
-description: A journal for institutions
-author:
-  name: Metagov, Inc.
-  email: hello@metagov.org
+description: A journal for institutional experiments
 
 # Plugins
 plugins:
@@ -15,8 +12,11 @@ plugins:
 
 minima:
   # Set to `true` to show excerpts on the homepage.
-  show_excerpts: true
+header_pages:
+  - submit.md
 
-google_analytics: G-8CM1DYG2FB
+show_excerpts: true
+
+google_analytics: 
 
 # see https://github.com/jekyll/minima/blob/master/_config.yml for examples
