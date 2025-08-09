@@ -2,6 +2,9 @@
 layout: post
 title: The Metagov Journal
 date: 2025-08-09
+authors: Joshua Tan
+reviews: https://openreview.net/forum?id=uQW9yeormT
+archival: https://github.com/posts/2025-08-09-metagov-journal.md
 ---
 
 # Abstract
