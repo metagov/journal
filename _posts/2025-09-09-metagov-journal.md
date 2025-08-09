@@ -1,7 +1,7 @@
 ---
-title: The Metagov Journal
 layout: post
-date: 2025-09-09
+title: "The Metagov Journal"
+date: 2025-09-08
 description: The Metagov Journal is a peer-reviewed journal that publishes living institutions.
 ---
 # Abstract
