@@ -40,6 +40,7 @@ Why treat living institutions as first-class scholarly objects, embedded in open
 - Embeds laborious institutional work within a network of peer-reviewed, openly accessible institutional profiles.
 - Accelerate speed of innovation.
 - Disseminate useful and innovative practices.
+- Plans to inherit Cryptoeconomic Systems and the earlier Metagov Journal experiments.
 - Organize data.
 - This institution has four roles: editors, authors, reviewers, and readers. They are listed at [...]
 - Peer review adds a layer of critical reflection, ensuring that the documentation is not only accurate but also evaluated for significance, novelty, and relevance to the broader institutional landscape. Open peer review allows the community to participate.
