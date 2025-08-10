@@ -31,21 +31,35 @@ Infrastructure re: overlay journals [CITE].
 
 Finally, there is a broader movement toward open access (OA)—-via community-driven publishing models that are free for both authors and readers.
 
-# Rationale
+# Genesis
 Why treat living institutions as first-class scholarly objects, embedded in open data, open processes, and distributed infrastructure?
 
 - Metagov itself is stagnating, and needs a new institutional context.
-- Give more credit to practitioners rather than people who write-up their results.
+- Give more credit to practitioners rather than people who write-up their results. Elevate the work of these founders and builders to the status of a legitimate scholarly and civic contribution.
 - Link practitioners with academic researchers.
+- Embeds laborious institutional work within a network of peer-reviewed, openly accessible institutional profiles.
 - Accelerate speed of innovation.
 - Disseminate useful and innovative practices.
 - Organize data.
 - This institution has four roles: editors, authors, reviewers, and readers. They are listed at [...]
+- Peer review adds a layer of critical reflection, ensuring that the documentation is not only accurate but also evaluated for significance, novelty, and relevance to the broader institutional landscape. Open peer review allows the community to participate.
+
+# What does it mean to publish a living institution?
+Publishing a living institution means documenting an active, evolving entity in a way that captures both its current state and its capacity for change over time. The publication must be useful for researchers--it should provide enough narrative and context to motivate further study. Importantly, however, it may not have the same kind of thesis common in research articles.
+
+To the degree possible, we want to encourage submission of living documents and data feeds. One thought is that instead of submitting, we just have the organization submit their entire website; every website, of course, is a living institution.
+
+While metadata is important, it's often not practical or useful to construct a large ontology that people will rarely conform to.
+
+Who are the members or people of the institution? This is incredibly important. To the degree we can facilitate publicatino of this data through infrastructure, that would give us an extremely valuable lens on the institution.
+
+Editability of the submission is another important question. After all, the institutions are "living" (and presumably, some will die after being submitted). No reason to impose a versioning system (yet), though interesting to think about how through a "git for orgs". On some level, we just want to provide a simple platform / coordination mechanism to help organize data collection and aggregation around institutions, especially digital ones.
+
+Publishing a living institution is therefore both an archival act and a participatory one. It preserves knowledge for future study, while inviting ongoing interaction from the community—-whether through commentary, supplemental data, or linked projects.
 
 # Aliveness
 <!--A simple test of aliveness.-->
-The institution is considered alive if it publishes at least 1 accepted submission per year.
-See the active website and submissions visible at [https://journal.metagov.org](https://journal.metagov.org) and on [OpenReview](https://journal.metagov.org). 
+The institution is considered alive if it publishes at least 1 accepted submission per year. See the active website and submissions visible at [https://journal.metagov.org](https://journal.metagov.org) and on [OpenReview](https://journal.metagov.org). 
 
 # Specification
 <!--Details to reproduce this institution.-->
@@ -55,6 +69,8 @@ To reproduce this institution, i.e. to found a new Metagov Journal:
 3. create an OpenReview page by making an OpenReview Support Request Form, and select the options for double-blind and manual review.
 4. invite submissions, mostly through direct outreach but also some marketing and community development
 5. find a fiscal sponsor or create a nonprofit legal entity
+
+# Conclusion
 
 # Data
 <!--Where to find data that allows researchers to analyze and study the institution.-->
