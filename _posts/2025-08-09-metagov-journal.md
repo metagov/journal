@@ -10,7 +10,7 @@ archival: https://github.com/posts/2025-08-09-metagov-journal.md
 The Metagov Journal is a peer-reviewed journal that publishes living institutions.
 
 # Abstract
-The Metagov Journal is a peer-reviewed, diamond open-access overlay journal that publishes “living institutions”--active communities, organizations, contracts, and other governance forms--alongside traditional scholarly work and op-eds about them. It serves as both a publication venue and a governance experiment itself, using an open peer review process to bridge the gap between practitioners and academic researchers, accelerate institutional innovation, and build a public knowledge base of governance practice. The journal itself is a living institution, continually evolving in editorial process, technical infrastructure, and community engagement. This submission also describes the genesis and context of the journal, along with some design considerations.
+The Metagov Journal is a peer-reviewed journal that publishes “living institutions”--active communities, organizations, platforms, contracts, and other governance forms--alongside traditional scholarly work and op-eds about those institutions. It is a journal and itself a living institution. As a journal, it operates through a diamond open-access open peer review process and publishes as an overlay journal on top of arXiv, SSRN, and GitHub. As a living institution, it is a continually evolving organization composed of readers, reviewers, authors, publishers, engineers, editors, and a broad range of (socio-)technical infrastructure. We describe the genesis and context of the journal, along with some design considerations.
 
 # Introduction
 <!--Please clearly communicate why someone else should care about this institution, e.g. because it is novel or important.-->
@@ -21,7 +21,9 @@ The Journal matters because it directly addresses a gap in how governance innova
 # Related work
 <!--Please describe other similar institutions, especially those that inspired by design or evolution of this one.-->
 
-We have recently seen a number of interesting innovations in scholarly publishing. Just within the computer science community, *Distill* was known for its richly interactive publications [CITE] while *OpenReview* pioneered transparent review processes for large conferences [CITE]. 
+We have recently seen a number of interesting innovations in scholarly publishing. Just within the computer science community, *Distill* was known for its richly interactive publications [CITE] while *OpenReview* pioneered transparent review processes for large conferences [CITE]. Decades later arxiv.org still counts as an innovation and merit mentioning here as well.
+
+Might work in ARK, the open decentralized DOI alternative, more platforms like OJS, pubpub, even notion and wikis.  torrents and OSF.io in addition to Zenodo for datasets. All ust for a proper fuller map of the space (though I'm really no expert)
 
 Recent developments, particularly in machine learning and the sciences, have sought to improve dataset sharing, ensuring transparency and reuse. Large-scale dataset repositories such as Zenodo and peer-reviewed venues for dataset papers demonstrate both the promise and challenges of data sharing.
 
@@ -34,11 +36,11 @@ Finally, there is a broader movement toward open access (OA)—-via community-dr
 # Genesis
 Why treat living institutions as first-class scholarly objects, embedded in open data, open processes, and distributed infrastructure?
 
-- Metagov itself is stagnating, and needs a new institutional context.
 - Give more credit to practitioners rather than people who write-up their results. Elevate the work of these founders and builders to the status of a legitimate scholarly and civic contribution.
 - Link practitioners with academic researchers.
 - Embeds laborious institutional work within a network of peer-reviewed, openly accessible institutional profiles.
-- Accelerate speed of innovation.
+- Metagov's own research culture is stagnating and needs a new institutional context.
+- Accelerate speed of innovation in institutional design.
 - Disseminate useful and innovative practices.
 - Plans to inherit Cryptoeconomic Systems and the earlier Metagov Journal experiments.
 - Organize data.
@@ -58,6 +60,10 @@ Editability of the submission is another important question. After all, the inst
 
 Publishing a living institution is therefore both an archival act and a participatory one. It preserves knowledge for future study, while inviting ongoing interaction from the community—-whether through commentary, supplemental data, or linked projects.
 
+We need an accounting of the people.
+
+## How do we handle concept pieces?
+
 # Aliveness
 <!--A simple test of aliveness.-->
 The institution is considered alive if it publishes at least 1 accepted submission per year. See the active website and submissions visible at [https://journal.metagov.org](https://journal.metagov.org) and on [OpenReview](https://journal.metagov.org). 
@@ -75,7 +81,7 @@ To reproduce this institution, i.e. to found a new Metagov Journal:
 
 # Data
 <!--Where to find data that allows researchers to analyze and study the institution.-->
-Data about Metagov is updated at [https://metagov.org] and in JSON format on [GitHub](https://raw.githubusercontent.com/metagov/entity/refs/heads/main/entity.json).
+Data about Metagov is updated at [metagov.org](https://metagov.org) and in JSON format on [GitHub](https://raw.githubusercontent.com/metagov/entity/refs/heads/main/entity.json).
 
 # Acknowledgements
 <!--In addition to typical acknowledgements, please also declare your relationship to the institution.-->
